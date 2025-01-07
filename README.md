@@ -1,6 +1,6 @@
-# flutter_application_1
+# Online shop
 
-A new Flutter project.
+a flutter project for nike's store
 
 ## Getting Started
 
